@@ -1,0 +1,43 @@
+
+import java.util.*;
+class Main{
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("enter the size of array : ");
+        int s= sc.nextInt();
+        int []arr=new int [s];  //declaring and creating array
+
+        System.out.println("enter the array elements : ");
+        for(int i=0;i<s;i++) //array elements as a input one by one using loop
+        {
+            arr[i]=sc.nextInt();
+        }
+
+        System.out.println("the original array is : ");
+        for(int i=0;i<s;i++)  //printing array elements one by one using loop
+        {
+            System.out.println(arr[i]);
+        }
+
+        int temp=0;
+        for(int i=0;i<s;i++)   //sorting operation carying out using for loop and nested for loop
+        {
+            for(int j=i+1;j<s;j++)
+            {
+                if (arr[i] > arr[j])
+                {
+                    temp=arr[i];
+                    arr[i]=arr[j];
+                    arr[j]=temp;
+                }
+            }
+        }
+
+        System.out.println("sorted array is : ");
+        for(int i=0;i<s;i++)   //printing sorted array elements using for loop
+        {
+            System.out.println(arr[i]);
+        }
+    }
+
+}

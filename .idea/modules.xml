@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Constructor_this_final/Constructor_this_final.iml" filepath="$PROJECT_DIR$/OOP/Constructor_this_final/Constructor_this_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lenear_search/Lenear_search.iml" filepath="$PROJECT_DIR$/Lenear_search/Lenear_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math_for_DSA/Math_for_DSA.iml" filepath="$PROJECT_DIR$/Math_for_DSA/Math_for_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberSystem/NumberSystem.iml" filepath="$PROJECT_DIR$/NumberSystem/NumberSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Package_static/Package_static.iml" filepath="$PROJECT_DIR$/OOP/Package_static/Package_static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practise/Practise.iml" filepath="$PROJECT_DIR$/Practise/Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recirsion/Recirsion.iml" filepath="$PROJECT_DIR$/Recirsion/Recirsion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recirsion/Recursion_examples/Recursion_examples.iml" filepath="$PROJECT_DIR$/Recirsion/Recursion_examples/Recursion_examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array and arraylist/array and arraylist.iml" filepath="$PROJECT_DIR$/array and arraylist/array and arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linckedlist/linckedlist.iml" filepath="$PROJECT_DIR$/linckedlist/linckedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+    </modules>
+  </component>
+</project>
