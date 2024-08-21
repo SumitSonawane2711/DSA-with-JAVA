@@ -1,8 +1,9 @@
 
-
+//find n'th fibonachi number (sum of previous 2 no.s)
 public class Fibonaci_no {
     public static void main(String[] args) {
-        System.out.println(fibo(6));
+        int ans = fibo(4);
+        System.out.println(ans);
     }
 
     static int  fibo(int n){

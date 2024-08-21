@@ -1,41 +1,26 @@
-//
-////write the code that print "hello world" five times
-//public class Main {
-//    public static void main(String[] args) {
-//        System.out.println("hellow world");
-//         print1();
-//    }
-//    static void print1(){
-//        System.out.println("hellow world");
-//        print2();
-//    }
-//    static void print2(){
-//        System.out.println("hellow world");
-//        print3();
-//    }
-//    static void print3(){
-//        System.out.println("hellow world");
-//        print4();
-//    }
-//    static void print4(){
-//        System.out.println("hellow world");
-//    }
-//    static void print5(){
-//        System.out.println("hellow world");
-//    }
-//}
-
-//with recursion functions
 public class Main {
-   public static void main(String[] args){
-print("hello world",0);
-   }
+    public static void main(String[] args) {
+        //write a function that prints hellow world
+        message();
+    }
 
-   static String print(String a,int n){
-       if(n==5){
-           return a;
-       }
-       System.out.println(a);
-       return print(a,n+1);
-   }
+    static void message(){
+        System.out.println("hellow");
+        message1();
+    }
+    static void message1(){
+        System.out.println("hellow");
+        message2();
+    }
+    static void message2(){
+        System.out.println("hellow");
+        message3();
+    }
+    static void message3(){
+        System.out.println("hellow");
+        message4();
+    }
+    static void message4(){
+        System.out.println("hellow");
+    }
 }
