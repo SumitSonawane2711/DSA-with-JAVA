@@ -1,3 +1,4 @@
+package Intro;
 
 //find n'th fibonachi number (sum of previous 2 no.s)
 public class Fibonaci_no {

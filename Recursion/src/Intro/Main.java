@@ -1,3 +1,5 @@
+package Intro;
+
 public class Main {
     public static void main(String[] args) {
         //write a function that prints hellow world
